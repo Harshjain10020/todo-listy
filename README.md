@@ -100,9 +100,3 @@ A beginner-friendly **Todo List Application** built with **HTML**, **CSS**, and 
 * First-time deployment experience
 
 ---
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
